@@ -37,9 +37,7 @@ public class App {
         }*/
 
 
-        /*Recursion test = neo4j.downwardRecursion("月经前妊娠期体温高于正常", session);
-        while (test.subject)
-        System.out.print(mongodb.downwardRecursion("月经前妊娠期体温高于正常", entity, relation));*/
+        /*Recursion test = neo4j.downwardRecursion("月经前妊娠期体温高于正常", session);*/
 
 
         //System.out.print(neo4j.upwardRecursion("105fe97072f211ea8c3d9eb6d0c289e1", session));
